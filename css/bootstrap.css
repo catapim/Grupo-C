@@ -4993,17 +4993,9 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-image: url("css/bgjumbotron-min.jpg");
+  background-image: url("https://github.com/catapim/Grupo-C/blob/master/css/bgjumbotron-min.jpg?raw=true");
   background-repeat: no-repeat;
   background-color: #eee;
-}
-
-
-.header-bg {
-  width:100%;
-  height:300px;
-  background-image: url('http://imgur.com/a/DJCFy.png');
-  background-size:cover;
 }
 
 .jumbotron h1,
