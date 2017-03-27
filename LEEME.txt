@@ -1,0 +1,7 @@
+Profesor
+
+El tema de nuestro sitio, somos nosotros mismos, el Grupo C.
+
+Trabajamos sobre una plantilla Bootstrap. 
+
+El link para ver el sitio rendereado es: https://htmlpreview.github.io/?https://github.com/catapim/Grupo-C/blob/master/index.html

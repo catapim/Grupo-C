@@ -10,6 +10,12 @@ html {
       -ms-text-size-adjust: 100%;
 }
 
+hablemos {
+    background-image: url("http://netdna.webdesignerdepot.com/uploads/2012/12/featured45.jpg");
+    background-repeat: no-repeat;
+
+}
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
@@ -4987,6 +4993,8 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
+  background-image: url("css/bgjumbotron-min.jpg");
+  background-repeat: no-repeat;
   background-color: #eee;
 }
 
